@@ -1,7 +1,7 @@
 {
-	"name": "galaxy",
+	"name": "Room",
 	"author": "VIWZ",
-	"url": "https://github.com/VIWZ",
-	"version": "1.0.2",
+	"url": "https://github.com/Room",
+	"version": "1.0.0",
 	"modes": ["dark"]
 }
