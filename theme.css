@@ -1,4 +1,4 @@
-﻿/*这个主题改编自Winter-Mix，非常感谢主题作者搭建的代码框架*/
+/*这个主题改编自Winter-Mix，非常感谢主题作者搭建的代码框架*/
 
 /******* Winter-Mix: Theme for SiYuan Note ************
 1. 本主题样式仅在16px字号设置下进行有限场景的测试，不能保证所有页面均完美呈现。如果遇到相关功能或样式问题，请重置为官方主题后再确认问题是否重现。
@@ -254,7 +254,7 @@ ul.b3-tab-bar.b3-list.b3-list--background {
     border-bottom: 1px solid rgb(255 255 255 / 14%);
 }
 .b3-menu__submenu {
-    background-color: #00000040 !important;
+    background-color: rgb(0 0 0 / 74%) !important;
 border: none !important;
 }
 
@@ -445,6 +445,12 @@ background-color: #000000;
 .b3-typography .img, .protyle-wysiwyg .img:hover {
     opacity: 1;
     transition: all 0.6s ease-in-out;
+}
+.b3-list mark {
+    background-color: #ff9f00;
+    color: #000000;
+    border-radius: 4px;
+    padding: 0 2px;
 }
 /********** 一、框架&控件 *******************************************************/
 
